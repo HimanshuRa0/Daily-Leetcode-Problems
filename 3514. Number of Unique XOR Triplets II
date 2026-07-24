@@ -1,3 +1,6 @@
+Leetcode Link               : https://leetcode.com/problems/number-of-unique-xor-triplets-ii
+
+
 //Approach-1 (Xor Pairs and then Xor triplets)
 //T.C : O(n^2 + n*maxEl), maxEl = max element in nums
 //S.C : O(maxEl), less than next power of 2 after maxEl
