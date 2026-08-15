@@ -12,6 +12,7 @@ class Solution {
         }
         if(allZero)
         return 0;
+        //condition ? valueIfTrue : valueIfFalse
         return resultXor==0? n-1 :n;
     }
 }
