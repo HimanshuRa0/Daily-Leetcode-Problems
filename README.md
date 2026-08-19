@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2029-stone-game-ix](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
