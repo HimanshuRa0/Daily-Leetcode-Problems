@@ -1,32 +1,33 @@
 class Solution {
+    class RowInfo{
+        int row;
+        boolean left;
+        boolean right;
+        boolean middle;
+
+        public RowInfo(int row){
+            this.row = row;
+            left = true;
+            right = true;
+            middle = true;
+        }
+    }
     public int maxNumberOfFamilies(int n, int[][] reservedSeats) {
-        Map<Integer, Integer> mp = new HashMap<>(); //row -> bitmask of booked seats
-
-        for(int[] reservedSeat : reservedSeats) { //O(10^4)
-            int row  = reservedSeat[0];
-            int seat = reservedSeat[1];
-            mp.merge(row, (1 << seat), (a, b) -> a | b); //set bits are the booked seats
+        Map<Integer, RowInfo> infos = new HashMap<>();
+        for(int[] reservedSeat : reservedSeats){
+            int row = reservedSeat[0];
+            int col = reservedSeat[1];
+            infos.putIfAbsent(row, new RowInfo(row));
+            if(col >=2 && col<=5)infos.get(row).left = false;
+            if(col>=4 && col<=7)infos.get(row).middle = false;
+            if(col>=6 && col<=9)infos.get(row).right = false;
         }
-
-        int result = (n - mp.size()) * 2;
-
-        int maskA = (1 << 2) | (1 << 3) | (1 << 4) | (1 << 5); //set bits are the ones I need empty for Group A
-        int maskB = (1 << 4) | (1 << 5) | (1 << 6) | (1 << 7); //set bits are the ones I need empty for Group B
-        int maskC = (1 << 6) | (1 << 7) | (1 << 8) | (1 << 9); //set bits are the ones I need empty for Group C
-
-        for(Map.Entry<Integer, Integer> entry : mp.entrySet()) { //min(10*n, 10^4)
-            int bookedSeatsMask = entry.getValue();
-
-            boolean groupA = (bookedSeatsMask & maskA) == 0;
-            boolean groupB = (bookedSeatsMask & maskB) == 0;
-            boolean groupC = (bookedSeatsMask & maskC) == 0;
-
-            if(groupA && groupC)
-                result += 2;
-            else if(groupA || groupB || groupC)
-                result += 1;
+        int result = 0;
+        for(Integer row : infos.keySet()){
+            RowInfo info = infos.get(row);
+            result += Math.max((info.left ? 1 :0)+(info.right ? 1 : 0), info.middle ? 1 : 0);
         }
-
+        result += (n-infos.size())*2;
         return result;
     }
 }
