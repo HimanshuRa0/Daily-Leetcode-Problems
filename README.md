@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [2029-stone-game-ix](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
@@ -68,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
