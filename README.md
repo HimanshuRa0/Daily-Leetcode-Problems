@@ -40,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0048-rotate-image) |
+| [1927-sum-game](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
