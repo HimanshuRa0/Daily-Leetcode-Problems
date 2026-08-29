@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0704-binary-search) |
 | [1386-cinema-seat-allocation](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
