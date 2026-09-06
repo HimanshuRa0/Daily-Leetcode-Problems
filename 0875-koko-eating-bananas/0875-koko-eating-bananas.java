@@ -7,7 +7,7 @@ class Solution {
         }
         while (left < right) {
             int mid = left + (right - left) / 2;
-            int hoursNeeded = 0; 
+            long hoursNeeded = 0; 
             for (int pile : piles) {
                 hoursNeeded += (int) Math.ceil((double) pile / mid); 
             }
