@@ -6,22 +6,18 @@ class Solution {
         for (int pile : piles) {
             right = Math.max(right, pile);
         }
-        
         while (left < right) {
             int mid = left + (right - left) / 2;
-            
             long hoursNeeded = 0; 
             for (int pile : piles) {
                 hoursNeeded += (int) Math.ceil((double) pile / mid); 
             }
-            
             if (hoursNeeded <= h) {
                 right = mid;
             } else {
                 left = mid + 1;
             }
         }
-        
         return left;
     }
 }
