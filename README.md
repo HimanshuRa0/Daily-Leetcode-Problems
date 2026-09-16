@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0292-nim-game](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0292-nim-game) |
 | [0836-rectangle-overlap](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
