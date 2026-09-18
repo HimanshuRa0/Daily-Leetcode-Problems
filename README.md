@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0292-nim-game) |
 | [0836-rectangle-overlap](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
