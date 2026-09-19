@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0292-nim-game) |
 | [0836-rectangle-overlap](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2029-stone-game-ix) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
