@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1927-sum-game) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
