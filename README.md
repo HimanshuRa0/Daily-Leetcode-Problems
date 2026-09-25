@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0704-binary-search) |
