@@ -1,26 +1,24 @@
 class Solution {
     public String evaluate(String s, List<List<String>> knowledge) {
-        int n = s.length();
-        Map<String, String> mp = new HashMap<>();
-        for (List<String> vec : knowledge) {
-            mp.put(vec.get(0), vec.get(1));
+        Map<String, String> map = new HashMap<>();
+        for (List<String> pair : knowledge) {
+            map.put(pair.get(0), pair.get(1));
         }
-        StringBuilder result = new StringBuilder();
+        StringBuilder ans = new StringBuilder();
         int i = 0;
-        while (i < n) {
-            if (Character.isAlphabetic(s.charAt(i))) {
-                result.append(s.charAt(i));
-            } else { //(
-                i++;
-                StringBuilder temp = new StringBuilder();
-                while (i < n && s.charAt(i) != ')') {
-                    temp.append(s.charAt(i));
+        while (i < s.length()) {
+            if (s.charAt(i) == '(') {
+                int start = i + 1;
+                while (s.charAt(i) != ')') {
                     i++;
                 }
-                result.append(mp.getOrDefault(temp.toString(), "?"));
+                String key = s.substring(start, i);
+                ans.append(map.getOrDefault(key, "?"));
+            } else {
+                ans.append(s.charAt(i));
             }
             i++;
         }
-        return result.toString();
+        return ans.toString();
     }
 }
