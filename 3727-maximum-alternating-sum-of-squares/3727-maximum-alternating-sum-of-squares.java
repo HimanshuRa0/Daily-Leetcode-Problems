@@ -5,8 +5,14 @@ class Solution {
             nums[i] = nums[i] * nums[i];
         }
         Arrays.sort(nums);
-        long small = Arrays.stream(nums, 0, n / 2).asLongStream().sum();
-        long large = Arrays.stream(nums, n / 2, n).asLongStream().sum();
-        return large - small;
+        long ans = 0;
+        for (int i = 0; i < n; i++) {
+            if (i < n / 2) {
+                ans -= nums[i];
+            } else {
+                ans += nums[i];
+            }
+        }
+        return ans;
     }
 }
