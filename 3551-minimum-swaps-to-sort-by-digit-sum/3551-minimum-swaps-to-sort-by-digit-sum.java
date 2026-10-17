@@ -7,36 +7,27 @@ class Solution {
         }
         return sum;
     }
-    private int compareByDigitSum(int num1, int num2) {
-        int num1DigitSum = getDigitSum(num1);
-        int num2DigitSum = getDigitSum(num2);
-        if (num1DigitSum != num2DigitSum) {
-            return Integer.compare(num1DigitSum, num2DigitSum);
-        }
-        return Integer.compare(num1, num2);
-    }
     public int minSwaps(int[] nums) {
         int n = nums.length;
-        Integer[] afterSorted = new Integer[n];
+        int[][] arr = new int[n][3];
         for (int i = 0; i < n; i++) {
-            afterSorted[i] = nums[i];
+            arr[i][0] = getDigitSum(nums[i]);
+            arr[i][1] = nums[i];
+            arr[i][2] = i;
         }
-        Arrays.sort(afterSorted, this::compareByDigitSum);
-        Map<Integer, Integer> valToIdx = new HashMap<>();
-        for (int i = 0; i < n; i++) {
-            valToIdx.put(nums[i], i);
-        }
+        Arrays.sort(arr, (a, b) -> {
+            if (a[0] != b[0]) return Integer.compare(a[0], b[0]);
+            return Integer.compare(a[1], b[1]);
+        });
         int swapCount = 0;
         for (int i = 0; i < n; i++) {
-            int expectedVal = afterSorted[i];
-            int currVal = nums[i];
-            if (expectedVal == currVal) continue;
-            int idx = valToIdx.get(expectedVal);
-            nums[i] = expectedVal;
-            nums[idx] = currVal;
-            valToIdx.put(expectedVal, i);
-            valToIdx.put(currVal, idx);
-            swapCount++;
+            while (arr[i][2] != i) {
+                int targetIdx = arr[i][2];
+                int[] temp = arr[i];
+                arr[i] = arr[targetIdx];
+                arr[targetIdx] = temp;
+                swapCount++;
+            }
         }
         return swapCount;
     }
