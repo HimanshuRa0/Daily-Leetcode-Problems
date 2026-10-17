@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0876-middle-of-the-linked-list](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -331,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
