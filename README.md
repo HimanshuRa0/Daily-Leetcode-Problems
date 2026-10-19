@@ -87,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0292-nim-game) |
