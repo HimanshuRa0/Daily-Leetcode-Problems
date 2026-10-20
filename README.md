@@ -262,15 +262,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 ## Sorting
 |  |
