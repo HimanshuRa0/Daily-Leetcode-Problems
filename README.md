@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0292-nim-game) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
