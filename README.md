@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
