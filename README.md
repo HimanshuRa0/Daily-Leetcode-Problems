@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
