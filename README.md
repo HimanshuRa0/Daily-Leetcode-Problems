@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0198-house-robber) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0876-middle-of-the-linked-list](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0856-score-of-parentheses](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -416,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/HimanshuRa0/Daily-Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
